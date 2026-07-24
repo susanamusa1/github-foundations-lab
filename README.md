@@ -33,3 +33,6 @@ creo que agregare algo mas
 ## Estado del curso
 
 Módulo 2 completado y Módulo 3 en progreso.
+## Licencia
+
+Este proyecto está disponible bajo la [Licencia MIT](LICENSE).
