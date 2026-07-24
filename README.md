@@ -5,7 +5,7 @@ Laboratorio práctico para la certificación GitHub Foundations
 
 Este cambio fue realizado directamente desde GitHub.
 
-## Cambio remoto
+## Cambio local
 
 Este cambio fue realizado directamente desde GitHub y ahora.
 me descubriste ahora que hago
